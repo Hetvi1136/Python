@@ -1,0 +1,9 @@
+#// grams into kgs
+grams=int(input("enter the grams"))
+kgs=grams/1000
+print(kgs)
+
+#// kgs to grams
+kgs=int(input("enter the kgs"))
+grams=kgs*1000
+print(grams)
